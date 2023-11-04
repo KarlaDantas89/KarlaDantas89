@@ -6,7 +6,7 @@ Meu nome é Karla Dantas Prete Galante, estou em transição de carreira pra ár
 <br>
 
 
-### <a href="https://www.linkedin.com/in/karla-dantas-p-galante-97a70023a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> </a>
+### <a href="https://www.linkedin.com/in/karla-dantas-p-galante-97a70023a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> </a>
 
 <br>
 <br>
